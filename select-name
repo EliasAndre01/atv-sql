@@ -1,0 +1,7 @@
+RESOLUÇÃO QUESTÃO 1: 
+
+SELECT name FROM world
+  WHERE name LIKE 'Y%'
+
+RESOLUÇÃO QUESTÃO 2 :
+
